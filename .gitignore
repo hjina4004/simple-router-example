@@ -1,0 +1,9 @@
+/vendor
+
+.env
+.env.backup
+
+/.vscode
+
+# OS Files #
+.DS_Store
